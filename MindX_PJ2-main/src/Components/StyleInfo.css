@@ -1,0 +1,15 @@
+.ContentCustomer{
+    display: flex;
+    max-width: 1250px;
+    margin: auto;
+    gap:50px
+}
+.ContentCustomer .contentLetf{
+    width: 70%;
+}
+.ContentCustomer .contentLetf table{
+    width: 100%;
+}
+.ContentCustomer .contentRight{
+    width: 30%;
+}
